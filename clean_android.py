@@ -19,5 +19,5 @@ def deleteDirs(path , delname="build"):
         
         	
 # del path
-PATH = "D:\\android\\workspace" 
-deleteDirs(PATH)
+PATH = "E:\\kuaipan\\workspace" 
+deleteDirs(PATH,'gen')
